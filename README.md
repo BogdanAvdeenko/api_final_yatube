@@ -67,6 +67,9 @@ python manage.py runserver
 /api/v1/posts/1 
 ```
 
+Ответ:
+
+
 ```
 {
     "id": 1,
