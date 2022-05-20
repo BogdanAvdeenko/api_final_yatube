@@ -85,10 +85,10 @@ python manage.py runserver
 
 - Python
 - Django 
-- djangorestframework
+- Djangorestframework
 - PyJWT
 - Pillow
-- djoser
+- Djoser
 
 ## Автор:
 
