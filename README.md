@@ -83,9 +83,12 @@ python manage.py runserver
 
 ## Используемые технологии:
 
-|--------|---------------------|--------|
-| Django | djangorestframework | PyJWT  |
-| Pillow | djoser              | Python |
+- Python
+- Django 
+- djangorestframework
+- PyJWT
+- Pillow
+- djoser
 
 ### Автор:
 
