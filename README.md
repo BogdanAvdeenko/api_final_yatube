@@ -80,3 +80,14 @@ python manage.py runserver
     "group": "Example_group"
 }
 ```
+
+## Используемые технологии:
+
+| Django | djangorestframework | PyJWT |
+| Pillow | djoser | Python |
+
+### Автор:
+
+Богдан Авдеенко.
+Студент факультета Бэкенд. Когорта №33.
+Яндекс Практикум.
